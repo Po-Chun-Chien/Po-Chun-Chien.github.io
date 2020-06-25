@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Po-Chun Chien"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "I am a full-time researcher."
   location         : "Taipei, Taiwan"
-  affiliation      : "Graduate Institue of Electronics Engineering, National Taiwan University"
+  employer         : "Graduate Institue of Electronics Engineering, National Taiwan University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "b04901112@ntu.edu.tw"
