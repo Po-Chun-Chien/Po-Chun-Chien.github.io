@@ -1,5 +1,5 @@
 ---
-title: "Time-Frame Folding: Back to the Sequentiality"
+title: 'Time-Frame Folding: Back to the Sequentiality'
 collection: publications
 permalink: /publication/2019-11-timeFold
 excerpt: 'Time-frame folding is formulated as the reverse operation of time-frame expansion. This method has the ability in circuit size compaction and applications in logic synthesis domains.'
