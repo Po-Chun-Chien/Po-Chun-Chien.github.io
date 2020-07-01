@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number lol"
+title: "Time-Frame Folding: Back to the Sequentiality"
 collection: publications
-permalink: /publication/2020-01-lol
+permalink: /publication/2019-11-timefold
 excerpt: 'This is excerpt.'
 date: 2020-01-01
 venue: 'This is venue.'
