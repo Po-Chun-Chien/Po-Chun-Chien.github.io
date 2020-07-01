@@ -1,12 +1,12 @@
 ---
-title: 'Time-Frame Folding: Back to the Sequentiality'
+title: "Time-Frame Folding: Back to the Sequentiality"
 collection: publications
 permalink: /publication/2019-11-timeFold
-excerpt: 'Time-frame folding is formulated as the reverse operation of time-frame expansion. This method has the ability in circuit size compaction and applications in logic synthesis domains.'
+excerpt: "Time-frame folding is formulated as the reverse operation of time-frame expansion. This method has the ability in circuit size compaction and applications in logic synthesis domains."
 date: 2019-11-05
-venue: 'Proceedings of the International Conference on Computer-Aided Design (ICCAD)'
-paperurl: 'https://ieeexplore.ieee.org/document/8942078'
-citation: 'P.-C. Chien and J.-H. Jiang. Time-frame Folding: Back to the Sequentiality. <i>In Proceedings of the International Conference of Computer-Aided Design (ICCAD)</i>, 2019.'
+venue: "Proceedings of the International Conference on Computer-Aided Design (ICCAD)"
+paperurl: "https://ieeexplore.ieee.org/document/8942078"
+citation: "P.-C. Chien and J.-H. Jiang. Time-frame Folding: Back to the Sequentiality. <i>In Proceedings of the International Conference of Computer-Aided Design (ICCAD)</i>, 2019."
 ---
 Abstract:
 
