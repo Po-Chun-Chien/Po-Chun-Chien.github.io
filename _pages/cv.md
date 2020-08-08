@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](http://academicpages.github.io/files/CV.pdf)
+[Download CV in PDF](http://b04901112.github.io/files/CV.pdf)
 
 Education
 ======
-* B.S. in GitHub, National Taiwan University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Graduate Institute of Electroncis Engineering, National Taiwan University
+* B.S. in Dept. of Eletrical Engineering, National Taiwan University
+
 
 Work experience
 ======
