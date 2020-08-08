@@ -11,11 +11,35 @@ redirect_from:
 
 [Download CV in PDF](http://b04901112.github.io/files/CV.pdf)
 
+Research Interests
+======
+* ...
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
 Education
 ======
-* M.S. in Graduate Institute of Electroncis Engineering, National Taiwan University
-* B.S. in Dept. of Eletrical Engineering, National Taiwan University
+* M.S. in [Graduate Institute of Electroncis Engineering](https://giee.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/)
+* B.S. in [Department of Eletrical Engineering](https://www.ee.ntu.edu.tw/), National Taiwan University
 
+Awards
+======
+  <ul>{% for post in site.awards %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
@@ -28,19 +52,10 @@ Work experience
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+Research Projects
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.projects %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
