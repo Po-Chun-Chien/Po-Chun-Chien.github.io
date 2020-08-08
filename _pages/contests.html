@@ -1,0 +1,14 @@
+---
+layout: archive
+title: "Contest Awards"
+permalink: /contests/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.contests reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
