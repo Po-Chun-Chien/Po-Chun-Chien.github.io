@@ -13,21 +13,41 @@ redirect_from:
 
 Research Interests
 ======
-* ...
+* Electronic Design Automation (EDA)
+  * Logic Synthesis & Optimization
+  * Formal Verification
+* Computer Science
+  * (D)QBF/SSAT solving
+  * Automata Learning & Theory
+  * Boolean Automata
+* Machine Learning (ML)
+  * Deep Learning (DL)
+  * Machine Comprehension
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * C/C++
+  * Python
+  * VerilogHDL (SystemVerilog)
+  * MATLAB
+  * Cadence SKILL
+* Language
+  *  Mandarin Chinese (native)
+  * English (IELTS 7.5, TOEFL 103, GRE 324/3.0)
 
 Education
 ======
-* M.S. in [Graduate Institute of Electroncis Engineering](https://giee.ntu.edu.tw/), [National Taiwan University](https://www.ntu.edu.tw/)
-* B.S. in [Department of Eletrical Engineering](https://www.ee.ntu.edu.tw/), National Taiwan University
+Received both B.S. and M.S. degree from National Taiwan University ([NTU](https://www.ntu.edu.tw/)).
+* M.S. in Graduate Institute of Electroncis Engineering ([GIEE](https://giee.ntu.edu.tw/))
+  * September 2018 - June 2020
+  * Major in EDA
+  * Instructed by Professor [Jie-Hong Roland Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/)
+  * A member of Applied Logic and Computation ([ALCom](http://alcom.ee.ntu.edu.tw/)) Lab
+  * Overall GPA: 4.22 / 4.30
+* B.S. in [Department of Eletrical Engineering](https://www.ee.ntu.edu.tw/)
+  * September 2015 - June 2018
+  * Overall GPA: 4.16 / 4.30 (top 5%)
 
 Awards
 ======
@@ -41,17 +61,27 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Work experience
+Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant
+  * ALCom Lab of NTU, July 2020 - present.
+  * Supervised by Professor Jie-Hong Roland Jiang.
+  * Extending my [graduate research](https://b04901112.github.io/publication/2020-06-thesis) and exploring new topics.  
+* Teaching Assistant of “Introduction to EDA”
+  * NTU, March - July 2020.
+  * Supervised by Professor Jie-Hong Roland Jiang.
+* Teaching Assistant of “Introduction to EDA”
+  * NTU, March - July 2019.
+  * Supervised by Professor Jie-Hong Roland Jiang.
+* Teaching Assistant of “DL for Human Language Processing”
+  * NTU, September 2018 - January 2019.
+  * Supervised by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~tlkagk/).
+* Teaching Assistant of “Advanced Deep Learning”
+  * NTU, March - July 2018.
+  * Supervised by Professor Hung-Yi Lee.
+* Summer Intern
+  * MediaTek ADCT/PDK Department, July - August 2018.
+  * Developed an automatic virtual-pin labeler for LVS on analog circuits.
 
 Research Projects
 ======
@@ -59,3 +89,15 @@ Research Projects
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Related Coursework
+======
+* EDA: SoC Verification, VLSI Testing, Logic Synthesis & Verification, Physical Design
+* ML: ML & have it deep and structured, Advanced DL, DL for Human Language Processing
+* CS: Data Structure & Programming, Algorithms, Advanced Computer Architecture
+* Others: Digital Signal Processing, Microelectronics, Introduction to Cryptography
+
+Personal Traits
+======
+* Highly motivated and eager to learn new things.
+* Capable of working as an individual as well as in groups.
+* Hard-working and good at time management.
