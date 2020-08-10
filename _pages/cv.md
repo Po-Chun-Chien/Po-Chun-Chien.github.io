@@ -16,6 +16,7 @@ Research Interests
 * Electronic Design Automation (EDA)
   * Logic Synthesis & Optimization
   * Formal Verification
+  * High-level Synthesis
 * Computer Science
   * (D)QBF/SSAT solving
   * Automata Learning & Theory
