@@ -41,7 +41,7 @@ Education
 Received both B.S. and M.S. degree from National Taiwan University ([NTU](https://www.ntu.edu.tw/)).
 * M.S. in Graduate Institute of Electroncis Engineering ([GIEE](https://giee.ntu.edu.tw/))
   * September 2018 - June 2020
-  * Major in EDA
+  * Major in Electronic Design Automation
   * Instructed by Professor [Jie-Hong Roland Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/)
   * A member of Applied Logic and Computation ([ALCom](http://alcom.ee.ntu.edu.tw/)) Lab
   * Overall GPA: 4.22 / 4.30
@@ -67,20 +67,20 @@ Work Experience
   * ALCom Lab of NTU, July 2020 - present.
   * Supervised by Professor Jie-Hong Roland Jiang.
   * Extending my [graduate research](https://b04901112.github.io/publication/2020-06-thesis) and exploring new topics.  
-* Teaching Assistant of “Introduction to EDA”
+* Teaching Assistant of “Introduction to Electronic Design Automation”
   * NTU, March - July 2020.
   * Supervised by Professor Jie-Hong Roland Jiang.
-* Teaching Assistant of “Introduction to EDA”
+* Teaching Assistant of “Introduction to Electronic Design Automation”
   * NTU, March - July 2019.
   * Supervised by Professor Jie-Hong Roland Jiang.
-* Teaching Assistant of “DL for Human Language Processing”
+* Teaching Assistant of “Deep Learning for Human Language Processing”
   * NTU, September 2018 - January 2019.
   * Supervised by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~tlkagk/).
 * Teaching Assistant of “Advanced Deep Learning”
   * NTU, March - July 2018.
   * Supervised by Professor Hung-Yi Lee.
 * Summer Intern
-  * MediaTek ADCT/PDK Department, July - August 2018.
+  * [MediaTek](https://www.mediatek.tw/) ADCT/PDK Department, July - August 2018.
   * Developed an automatic virtual-pin labeler for LVS on analog circuits.
 
 Research Projects
