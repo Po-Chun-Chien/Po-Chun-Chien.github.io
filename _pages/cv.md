@@ -53,7 +53,7 @@ Received both B.S. and M.S. degree from National Taiwan University ([NTU](https:
 
 Awards
 ======
-  <ul>{% for post in site.awards %}
+  <ul>{% for post in site.awards reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
@@ -87,7 +87,7 @@ Work Experience
 
 Research Projects
 ======
-  <ul>{% for post in site.projects %}
+  <ul>{% for post in site.projects reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
