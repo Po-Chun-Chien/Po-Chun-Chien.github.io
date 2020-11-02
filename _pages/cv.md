@@ -13,15 +13,16 @@ redirect_from:
 
 Research Interests
 ======
+* Formal Verification
+  * Soft/Hard-ware Model Checking
+  * QBF/SAT solving
+  * Automata Theory
 * Electronic Design Automation (EDA)
   * Logic Synthesis & Optimization
-  * Formal Verification
-  * High-level Synthesis
-* Computer Science
-  * (D)QBF/SSAT solving
-  * Automata Learning & Theory
-  * Boolean Automata
+  * Highl-level Synthesis
+  * Computation Models
 * Machine Learning (ML)
+  * Decision Tree
   * Deep Learning (DL)
   * Machine Comprehension
 
@@ -34,8 +35,8 @@ Skills
   * MATLAB
   * Cadence SKILL
 * Language
-  *  Mandarin Chinese (native)
-  * English (IELTS 7.5, TOEFL 103, GRE 324/3.0)
+  * Mandarin Chinese (native)
+  * English (IELTS 7.5, TOEFL 103, GRE 155/170/4.0)
 
 Education
 ======
@@ -92,10 +93,10 @@ Research Projects
   
 Related Coursework
 ======
-* EDA: SoC Verification, VLSI Testing, Logic Synthesis & Verification, Physical Design
+* Verification: SoC Verification, Logic Synthesis & Verification, Algorithms
+* EDA: VLSI Testing, Physical Design, Data Structure & Programming
 * ML: ML & have it deep and structured, Advanced DL, DL for Human Language Processing
-* CS: Data Structure & Programming, Algorithms, Advanced Computer Architecture
-* Others: Digital Signal Processing, Microelectronics, Introduction to Cryptography
+* Others: Advanced Computer Architecture, Digital Signal Processing, Introduction to Cryptography
 
 Personal Traits
 ======
