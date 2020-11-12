@@ -71,16 +71,16 @@ Work Experience
   * Extending my [graduate research](https://b04901112.github.io/publication/2020-06-thesis) and exploring new topics.  
 * Teaching Assistant of “Introduction to Electronic Design Automation”
   * NTU, March - July 2020.
-  * Supervised by Professor Jie-Hong Roland Jiang.
+  * Instructed by Professor Jie-Hong Roland Jiang.
 * Teaching Assistant of “Introduction to Electronic Design Automation”
   * NTU, March - July 2019.
-  * Supervised by Professor Jie-Hong Roland Jiang.
+  * Instructed by Professor Jie-Hong Roland Jiang.
 * Teaching Assistant of “Deep Learning for Human Language Processing”
   * NTU, September 2018 - January 2019.
-  * Supervised by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~tlkagk/).
+  * Instructed by Professor [Hung-Yi Lee](https://speech.ee.ntu.edu.tw/~tlkagk/) and Professor [Yun-Nung Chen](https://www.csie.ntu.edu.tw/~yvchen/).
 * Teaching Assistant of “Advanced Deep Learning”
   * NTU, March - July 2018.
-  * Supervised by Professor Hung-Yi Lee.
+  * Instructed by Professor Hung-Yi Lee and Professor Yun-Nung Chen.
 * Summer Intern
   * [MediaTek](https://www.mediatek.tw/) ADCT/PDK Department, July - August 2018.
   * Developed an automatic virtual-pin labeler for LVS on analog circuits.
