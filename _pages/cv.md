@@ -91,7 +91,7 @@ Research Projects
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Related Coursework
+Related Course
 ======
 * Verification: SoC Verification, Logic Synthesis & Verification, Algorithms
 * EDA: VLSI Testing, Physical Design, Data Structure & Programming
