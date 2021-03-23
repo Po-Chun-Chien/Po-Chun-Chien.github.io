@@ -6,7 +6,7 @@ excerpt: "Time-frame folding is formulated as the reverse operation of time-fram
 date: 2019-11-05
 venue: "Proceedings of the International Conference on Computer-Aided Design (ICCAD)"
 paperurl: ""
-citation: "P.-CCCC. Chien and J.-H. R. Jiang. &quot;Time-frame Folding: Back to the Sequentiality.&quot; <i>In Proceedings of the International Conference of Computer-Aided Design (ICCAD)</i>, 2019."
+citation: "P.-C. Chien and J.-H. R. Jiang, &quot;Time-frame Folding: Back to the Sequentiality,&quot; <i>in Proceedings of the International Conference of Computer-Aided Design (ICCAD)</i>, 2019."
 ---
 Abstract:  
 In this paper we formulate time-frame folding (TFF) as the reverse operation of time-frame unfolding (TFU), or commonly known as time-frame expansion in automatic test pattern generation (ATPG) and (un)bounded model checking.
@@ -17,5 +17,3 @@ We propose an algorithm that finds a minimum-state finite state machine consiste
 Empirical evaluation of our method demonstrates its ability in circuit size compaction and suggests potential use in different application domains.
 
 [Download paper here](https://ieeexplore.ieee.org/document/8942078)
-
-[comment]: # (RRRecommended citation: P.-C. Chien and J.-H. R. Jiang. "Time-frame Folding: Back to the Sequentiality". <i>In Proceedings of the International Conference of Computer-Aided Design (ICCAD)</i>, 2019.)
