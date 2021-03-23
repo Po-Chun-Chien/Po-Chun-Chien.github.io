@@ -18,4 +18,4 @@ Empirical evaluation of our method demonstrates its ability in circuit size comp
 
 [Download paper here](https://ieeexplore.ieee.org/document/8942078)
 
-[comment]: # (Recommended citation: P.-C. Chien and J.-H. R. Jiang. Time-frame Folding: Back to the Sequentiality. <i>In Proceedings of the International Conference of Computer-Aided Design (ICCAD)</i>, 2019.)
+[comment]: # (Recommended citation: P.-C. Chien and J.-H. R. Jiang. "Time-frame Folding: Back to the Sequentiality". <i>In Proceedings of the International Conference of Computer-Aided Design (ICCAD)</i>, 2019.)
