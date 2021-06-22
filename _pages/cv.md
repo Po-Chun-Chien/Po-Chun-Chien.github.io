@@ -66,9 +66,9 @@ Publications
 Work Experience
 ======
 * Research Assistant
-  * ALCom Lab of NTU, July 2020 - present.
+  * ALCom Lab of NTU, July - Nov. 2020, April - June 2021.
   * Supervised by Professor Jie-Hong Roland Jiang.
-  * Extending my [graduate research](https://b04901112.github.io/publication/2020-06-thesis) and exploring new topics.  
+  * Extending my [graduate research](https://b04901112.github.io/publication/2020-06-thesis) and exploring new topics ([link1](https://b04901112.github.io/projects/5.ML+LS), [link2](https://b04901112.github.io/projects/6.xec/)).
 * Teaching Assistant of “Introduction to Electronic Design Automation”
   * NTU, March - July 2020.
   * Instructed by Professor Jie-Hong Roland Jiang.
