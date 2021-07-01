@@ -11,9 +11,9 @@ title                    : "Po-Chun Chien / Personal Page"
 title_separator          : "-"
 name                     : &name "Po-Chun Chien"
 description              : &description "personal description"
-url                      : https://b04901112.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://PoChunChien.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "b04901112/b04901112.github.io"
+repository               : "PoChunChien/PoChunChien.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -87,7 +87,7 @@ author:
   employer         : "GIEE, NTU"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "b04901112@ntu.edu.tw"
+  email            : "r07943091@ntu.edu.tw"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "b04901112"
+  github           : "PoChunChien"
   google_plus      :
   keybase          :
   instagram        :
