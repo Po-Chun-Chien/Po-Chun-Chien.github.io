@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV in PDF](http://b04901112.github.io/files/CV.pdf)
+[Download CV in PDF](http://po-chun-chien.github.io/files/CV.pdf)
 
 Research Interests
 ======
@@ -68,7 +68,7 @@ Work Experience
 * Research Assistant
   * ALCom Lab of NTU, July - Nov. 2020, April - June 2021.
   * Supervised by Professor Jie-Hong Roland Jiang.
-  * Extending my [graduate research](https://b04901112.github.io/publication/2020-06-thesis) and exploring new topics ([link1](https://b04901112.github.io/projects/5.ML+LS), [link2](https://b04901112.github.io/projects/6.xec/)).
+  * Extending my [graduate research](https://po-chun-chien.github.io/publication/2020-06-thesis) and exploring new topics ([link1](https://po-chun-chien.github.io/projects/5.ML+LS), [link2](https://po-chun-chien.github.io/projects/6.xec/)).
 * Teaching Assistant of “Introduction to Electronic Design Automation”
   * NTU, March - July 2020.
   * Instructed by Professor Jie-Hong Roland Jiang.
