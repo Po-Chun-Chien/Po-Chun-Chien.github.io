@@ -15,4 +15,4 @@ In this work, we formulate a new orthogonal approach at the logic level to achie
 The new formulation provides a smooth trade-off between bandwidth and throughput.
 Experiments show the effectiveness of the structural method and improved optimality of the functional method on look-up-table and flip-flop usage.
 
-Click the links to view the paper ([IEEE *Xplore*](https://ieeexplore.ieee.org/document/9218552) | [GitHub](http://po-chun-chien.github.io/files/papers/dac20_tm.pdf)) and the [slides](http://po-chun-chien.github.io/files/slides/dac20_tm_slides.pdf).
+Click the links to view the paper ([IEEE *Xplore*](https://ieeexplore.ieee.org/document/9218552) &#124; [GitHub](http://po-chun-chien.github.io/files/papers/dac20_tm.pdf)) and the [slides](http://po-chun-chien.github.io/files/slides/dac20_tm_slides.pdf).

@@ -16,4 +16,4 @@ Unlike TFU, TFF can be highly nontrivial as the subcircuit of each time-frame ca
 We propose an algorithm that finds a minimum-state finite state machine consistent with the input-output behavior of the combinational circuit under folding.
 Empirical evaluation of our method demonstrates its ability in circuit size compaction and suggests potential use in different application domains.
 
-Click the links to view the paper ([IEEE *Xplore*](https://ieeexplore.ieee.org/document/8942078) | [GitHub](http://po-chun-chien.github.io/files/papers/iccad19_tff.pdf)) and the [slides](http://po-chun-chien.github.io/files/slides/iccad19_tff_slides.pdf).
+Click the links to view the paper ([IEEE *Xplore*](https://ieeexplore.ieee.org/document/8942078) &#124; [GitHub](http://po-chun-chien.github.io/files/papers/iccad19_tff.pdf)) and the [slides](http://po-chun-chien.github.io/files/slides/iccad19_tff_slides.pdf).
