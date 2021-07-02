@@ -45,7 +45,7 @@ Received both B.S. and M.S. degree from National Taiwan University ([NTU](https:
   * September 2018 - June 2020
   * Major in Electronic Design Automation
   * Instructed by Professor [Jie-Hong Roland Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/)
-  * A member of Applied Logic and Computation ([ALCom](http://alcom.ee.ntu.edu.tw/)) Lab
+  * A member of Applied Logic and Computation (ALCom, [website](http://alcom.ee.ntu.edu.tw/) &#124; [GitHub](https://github.com/NTU-ALComLab)) Lab
   * Overall GPA: 4.22 / 4.30
 * B.S. in [Department of Eletrical Engineering](https://www.ee.ntu.edu.tw/)
   * September 2015 - June 2018
