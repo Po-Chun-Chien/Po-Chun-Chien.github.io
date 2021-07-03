@@ -17,3 +17,13 @@ We propose an algorithm that finds a minimum-state finite state machine consiste
 Empirical evaluation of our method demonstrates its ability in circuit size compaction and suggests potential use in different application domains.
 
 Click the links to view the paper ([IEEE *Xplore*](https://ieeexplore.ieee.org/document/8942078) &#124; [GitHub](http://po-chun-chien.github.io/files/papers/iccad19_tff.pdf)) and the [slides](http://po-chun-chien.github.io/files/slides/iccad19_tff_slides.pdf).
+
+To cite the paper, you may use the following BibTex entry.
+```
+@inproceedings{Chien:ICCAD:2019,
+    author      = {Po-Chun Chien and Jie-Hong Roland Jiang},
+    title       = {Time-Frame Folding: Back to the Sequentiality},
+    booktitle   = {Proceedings of the International Conference of Computer-Aided Design (ICCAD)},
+    year        = {2019}
+}
+```
