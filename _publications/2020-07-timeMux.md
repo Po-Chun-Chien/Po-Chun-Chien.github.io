@@ -15,7 +15,7 @@ In this work, we formulate a new orthogonal approach at the logic level to achie
 The new formulation provides a smooth trade-off between bandwidth and throughput.
 Experiments show the effectiveness of the structural method and improved optimality of the functional method on look-up-table and flip-flop usage.
 
-Click the links to view the paper [[IEEE *Xplore*](https://ieeexplore.ieee.org/document/9218552) &#124; [GitHub](http://po-chun-chien.github.io/files/papers/dac20_tm.pdf)], the presentation [[slides](http://po-chun-chien.github.io/files/slides/dac20_tm_slides.pdf) &#124; [video](https://drive.google.com/file/d/10DEV1OVY9kAqCohN_r78ly3z4wCUE18V/view?usp=sharing)], the [source code](https://github.com/NTU-ALComLab/ext-folding) and the project [page](https://po-chun-chien.github.io/projects/4.tm/).
+Click the links to view the paper [[IEEE *Xplore*](https://ieeexplore.ieee.org/document/9218552) &#124; [ACM DL](https://dl.acm.org/doi/10.5555/3437539.3437575) &#124; [GitHub](http://po-chun-chien.github.io/files/papers/dac20_tm.pdf)], the presentation [[slides](http://po-chun-chien.github.io/files/slides/dac20_tm_slides.pdf) &#124; [video](https://drive.google.com/file/d/10DEV1OVY9kAqCohN_r78ly3z4wCUE18V/view?usp=sharing)], the [source code](https://github.com/NTU-ALComLab/ext-folding) and the project [page](https://po-chun-chien.github.io/projects/4.tm/).
 
 To cite the paper, you may use the following BibTex entry.
 <pre><code>@inproceedings{Chien:DAC:2020,
