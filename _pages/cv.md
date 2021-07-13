@@ -40,7 +40,7 @@ Skills
 
 Education
 ======
-* Ph.D in [Informatics](http://www.ifi.lmu.de/) (Computer Science), [LMU Munich](https://www.lmu.de/en/index.html)
+* Ph.D. in [Informatics](http://www.ifi.lmu.de/) (Computer Science), [LMU Munich](https://www.lmu.de/en/index.html)
   * From July 2021.
   * A member of [SoSy-Lab](https://www.sosy-lab.org/) led by Prof. Dr. [Dirk Beyer](https://www.sosy-lab.org/people/beyer/)
 * M.S. in [Electroncis Engineering](https://giee.ntu.edu.tw/), National Taiwan University ([NTU](https://www.ntu.edu.tw/))
