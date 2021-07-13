@@ -73,18 +73,18 @@ social:
 
 # Analytics
 analytics:
-  provider               : "custom" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "G-VH03Y796G3"
+  provider               : "false" # false (default), "google", "google-universal", "custom"
+  #google:
+  #  tracking_id          : "G-VH03Y796G3"
 
 
 # Site Author
 author:
   name             : "Po-Chun Chien"
   avatar           : "profile.jpg"
-  bio              : "I am a research assistant in ALCom Lab."
-  location         : "Taipei, Taiwan"
-  employer         : "GIEE, NTU"
+  bio              : "I am a research assistant in SoSy-Lab."
+  location         : "Munich, Germany"
+  employer         : "IFI, LMU Munich"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "r07943091@ntu.edu.tw"
