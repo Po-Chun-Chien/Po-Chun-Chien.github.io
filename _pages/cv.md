@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV in PDF](http://po-chun-chien.github.io/files/CV.pdf)
+[Download CV in PDF](https://compile-overleaf.now.sh/#rpdqjnjcrpfr)
 
 Research Interests
 ======
@@ -66,7 +66,7 @@ Publications
 
 Work Experience
 ======
-* Research Assistant (Wissenschaftlicher Mitarbeiter)
+* Research Associate (Wissenschaftlicher Mitarbeiter)
   * SoSy-Lab of LMU Munich, from July 2021.
   * Supervised by Prof. Dr. Dirk Beyer.
 * Research Assistant
