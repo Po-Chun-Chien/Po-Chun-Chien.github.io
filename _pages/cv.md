@@ -66,7 +66,7 @@ Publications
 
 Work Experience
 ======
-* Research Associate (Wissenschaftlicher Mitarbeiter)
+* Research Assistant (Wissenschaftlicher Mitarbeiter)
   * SoSy-Lab of LMU Munich, from July 2021.
   * Supervised by Prof. Dr. Dirk Beyer.
 * Research Assistant
