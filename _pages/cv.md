@@ -44,7 +44,7 @@ Education
   * From July 2021.
   * A member of [SoSy-Lab](https://www.sosy-lab.org/) led by Prof. Dr. [Dirk Beyer](https://www.sosy-lab.org/people/beyer/)
 * M.S. in [Electroncis Engineering](https://giee.ntu.edu.tw/), National Taiwan University ([NTU](https://www.ntu.edu.tw/))
-  * September 2018 - June 2020.
+  * September 2018--June 2020.
   * Major in Electronic Design Automation.
   * A member of [ALCom Lab](http://alcom.ee.ntu.edu.tw/) led by Prof. [Jie-Hong Roland Jiang](http://cc.ee.ntu.edu.tw/~jhjiang/).
   * Overall GPA: 4.22 / 4.30 or 3.96 / 4.0.
