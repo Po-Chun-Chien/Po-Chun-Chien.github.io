@@ -6,7 +6,7 @@ excerpt: "The structural and functional circuit folding methods are proposed to 
 date: 2020-07-23
 venue: "Proceedings of the Design Automation Conference (DAC)"
 paperurl: ""
-citation: "P.-C. Chien and J.-H. R. Jiang, &quot;Time Multiplexing via Circuit Folding,&quot; <i>in Proceedings of the Design Automation Conference (DAC)</i>, 2020."
+citation: "P.-C. Chien and J.-H. R. Jiang, &quot;Time Multiplexing via Circuit Folding,&quot; <i>in Proc. DAC</i>, 2020."
 ---
 Abstract:  
 Time multiplexing is an important technique to overcome the bandwidth bottleneck of limited input-output pins in FPGAs.
@@ -21,6 +21,7 @@ To cite the paper, you may use the following BibTex entry.
 <pre><code>@inproceedings{Chien:DAC:2020,
     author      = {Po-Chun Chien and Jie-Hong Roland Jiang},
     title       = {Time Multiplexing via Circuit Folding},
-    booktitle   = {Proceedings of the Design Automation Conference (DAC)},
-    year        = {2020}
+    booktitle   = {Proc. DAC},
+    year        = {2020},
+    doi         = {10.1109/dac18072.2020.9218552}
 }</code></pre>
