@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV in PDF](https://compile-overleaf.now.sh/#rpdqjnjcrpfr)
+Download CV in PDF [[latest](https://compile-overleaf.now.sh/#rpdqjnjcrpfr) &#124; [stable](http://po-chun-chien.github.io/files/CV.pdf)]
 
 Research Interests
 ======
