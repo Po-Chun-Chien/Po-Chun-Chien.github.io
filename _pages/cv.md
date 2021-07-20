@@ -64,7 +64,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Work Experience
+Work Experiences
 ======
 * Research Assistant (Wissenschaftlicher Mitarbeiter)
   * SoSy-Lab of LMU Munich, from July 2021.
@@ -95,7 +95,7 @@ Research Projects
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Related Course
+Related Courses
 ======
 * Verification: SoC Verification, Logic Synthesis & Verification, Algorithms
 * EDA: VLSI Testing, Physical Design, Data Structure & Programming
