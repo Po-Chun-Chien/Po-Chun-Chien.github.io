@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV in PDF [[latest](https://compile-overleaf.now.sh/#rpdqjnjcrpfr) &#124; [stable](http://po-chun-chien.github.io/files/CV.pdf)]
+Download CV in [PDF](http://po-chun-chien.github.io/files/CV.pdf)
 
 Research Interests
 ======
@@ -69,6 +69,7 @@ Work Experiences
 * Research Assistant (Wissenschaftlicher Mitarbeiter)
   * SoSy-Lab of LMU Munich, from July 2021.
   * Supervised by Prof. Dr. Dirk Beyer.
+  * Part of the DFG Research Training Group [ConVeY](https://convey.ifi.lmu.de/)
 * Research Assistant
   * ALCom Lab of NTU, July -- Nov. 2020, April -- June 2021.
   * Supervised by Prof. Jie-Hong Roland Jiang.
