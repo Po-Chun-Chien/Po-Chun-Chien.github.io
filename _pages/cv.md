@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV in [PDF](http://po-chun-chien.github.io/files/CV.pdf)
+Download CV in [PDF](https://po-chun-chien.github.io/files/Po-Chun.Chien.CV.pdf)
 
 Research Interests
 ======
